@@ -17,6 +17,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 The analysis of the election show that:
 
 - There were 369,711 votes cast in the election.
+
 ![ElectionResults](/Resources/ElectionResults.png)
 
 - The candiates were:
@@ -28,6 +29,7 @@ The analysis of the election show that:
   - Charles Casper Stockham received 23.0% of the vote.
   - Diana DeGette received 72.8% of the vote.
   - Raymon Anthony Doane received 3.1% of the vote.
+
 ![CandidateVotes.png](/Resources/CandidateVotes.png)
 
 - the winner of the election was:
@@ -35,9 +37,11 @@ The analysis of the election show that:
 
 ## Challenge Overiew
 The python code we had written adequately showed detailed information that not only determined the outcome of the election, but provided voting statistics for each candidate as well as each county that participated in the vote as seen below.
+
 ![CountyVotes.png](/Resources/CountyVotes.png)
 
 Here is the code that allowed us to tally each counties vote when a new county name was introduced in the county list:
+
 ![CountyVoteCode.ong](/Resources/CountyVotes.png)
 
 ## Challenge Summary
